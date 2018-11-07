@@ -85,8 +85,8 @@ footer {
   <nav>
     <ul>
       <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
+      <li><a href=" repozytorium/page1 ">Paris</a></li>
+      <li><a href=" repozytorium/page2 ">Tokyo</a></li>
     </ul>
   </nav>
   
